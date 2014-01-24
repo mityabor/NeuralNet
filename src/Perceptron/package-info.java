@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Mitya
+ *
+ */
+package Perceptron;
